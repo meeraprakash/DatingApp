@@ -2,3 +2,4 @@
 .obj
 .vscode
 *.db
+appsettings.json
