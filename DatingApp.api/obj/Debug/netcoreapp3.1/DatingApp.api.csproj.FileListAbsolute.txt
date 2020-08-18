@@ -67,3 +67,9 @@ D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetC
 D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\vscprojects\DatingApp\DatingApp.api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
